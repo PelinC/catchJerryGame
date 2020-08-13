@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		33EF26DF24E56F9D00749DB9 /* CatchKarlGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatchKarlGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		33EF26DF24E56F9D00749DB9 /* CatchJerryGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatchJerryGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33EF26E224E56F9D00749DB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33EF26E424E56F9D00749DB9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		33EF26E624E56F9D00749DB9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		33EF26E024E56F9D00749DB9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				33EF26DF24E56F9D00749DB9 /* CatchKarlGame.app */,
+				33EF26DF24E56F9D00749DB9 /* CatchJerryGame.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = CatchKarlGame;
 			productName = CatchKarlGame;
-			productReference = 33EF26DF24E56F9D00749DB9 /* CatchKarlGame.app */;
+			productReference = 33EF26DF24E56F9D00749DB9 /* CatchJerryGame.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.pelinsucelebi.CatchKarlGame;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CatchJerryGame;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.pelinsucelebi.CatchKarlGame;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CatchJerryGame;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
